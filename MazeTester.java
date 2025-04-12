@@ -7,7 +7,7 @@ public class MazeTester {
 	public static void main(String[] args) {
 
 		// creates a new maze 
-		Maze maze = new Maze("C:\\Users\\wilso\\OneDrive\\Documents\\Spring '25\\CSC111_02 - Data Structure & Abstraction\\Programs\\Project2Submission2\\maze.txt");
+		Maze maze = new Maze("maze.txt");
 		
 		// prints a new maze
 		maze.printMaze();
